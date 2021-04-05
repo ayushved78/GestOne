@@ -8,13 +8,14 @@
 
 <h3>How to use<h3>
 <p>The above application is developed using Python and Open CV, so you need to execute the following steps before executing the application:
-1) Install <a href="https://www.python.org/downloads/">Python</a> depending on your system OS
-2) Open cmd and ececute the following command: "pip install opencv-python"
-3) After successful installation of OpenCV execute "pip install PyAutoGUI"
+  <ol>
+    <li>Install <a href="https://www.python.org/downloads/">Python</a> depending on your system OS</li>
+    <li>Open cmd and ececute the following command: "pip install opencv-python"</li>
+<li>After successful installation of OpenCV execute "pip install PyAutoGUI"</li></ol>
   You are all set to execute the program.</p>
 
 <h3>RUN</h3>
-<p>py <filename>.py</p>
+<p>py "filename".py</p>
 
 <h3>Reference</h3>
 <p>YouTube: <a href="https://www.youtube.com/channel/UCpWIxCtUo2IHh9d3fiyMaJw">AskItLoud</a> </p>
